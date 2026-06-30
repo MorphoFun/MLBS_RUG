@@ -5,7 +5,7 @@ Have you heard about the R statistical programming language from colleagues or s
 An unofficial R Users group was started at Mountain Lake Biological Station (MLBS) in the summer of 2025 to foster a supportive and positive community of inquisitive learners who share common interests in visualizing and analyzing biological data, particularly in context to evolutionary biology, ecology, and organismal biology. Whether you're a novice who's never opened R before or an experienced user who can't decide which statistical test to use for their data or can't figure why their code isn't working, there's always room for growth! While we're still in the initial phases of structuring our users group, here are some helpful resources to get started with R and R Studio. 
 <p>
   Stay tuned for more!
-</p>
+<p>
 
 | Week # | Topic | Aims |
 | --- | --- | --- |
