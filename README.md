@@ -14,3 +14,8 @@ An unofficial R Users group was started at Mountain Lake Biological Station (MLB
 | 3 | - Creating publication-ready figures with ggplot2 | - Practice graphing data in different ways <br> - Learn how to prepare figures that can be used for publications |
 | 4 | - Comparing multiple variables between groups | - Practice testing whether species/groups are different and what variables may be causing those differences <br> - Understand the difference between multivariate and univariate statistical tests, and how they complement one another |
 | 5 | - Using GLMMs to handle more complex datasets | - Understand the benefits of using GLMMs or GAMs rather than ANOVAs and t-tests <br> - Understand what pseudoreplication is and how to avoid it <br> - Learn approaches to determine which model or set of models best explain the variation in your data |
+
+
+<p>
+  Questions? Feel free to contact Sandy Kawano at sandyk(at)virginia.edu
+</p>
